@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{background-color: grey;}
+
+h1 { text-align: center;
+padding: 60px;
+background-color:orange;}
+
+.login{ display:flex;
+align-items: flex-end;
+background-color: blue
+;}
+

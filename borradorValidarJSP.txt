@@ -1,0 +1,42 @@
+	// Variables para nuevo Nombre
+
+		/*String nuevoNombre = ("");
+		String nuevoNif = ("");
+		String nuevoCorreo = ("");
+		String nuevoTelefono = ("");
+
+		int resultUpdate1 = estado.executeUpdate(update);
+		int resultUpdate2 = estado.executeUpdate(update);
+		int resultUpdate3 = estado.executeUpdate(update);
+		int resultUpdate4 = estado.executeUpdate(update);
+
+		ValidarPartes vNombre = new ValidarPartes();
+		ValidarPartes vNif= new ValidarPartes();
+		ValidarPartes vCorreo = new ValidarPartes();
+		ValidarPartes vTelefono = new ValidarPartes();*/
+		
+		// Metodo para Validar Nuevos Partes 
+		
+		// Anulado por ahora validacion  
+		
+		
+		/*if (nuevoNombre != null && !nuevoNombre.isEmpty() && vNombre.validarNif("Nif")) {
+
+			update += "nuevoNombre";
+
+		}
+		if (nuevoNif != null && !nuevoNif.isEmpty() && vNif.validarNif("Nif")) {
+
+			update += "nuevoNif";
+
+		}
+		if (nuevoCorreo != null && !nuevoCorreo.isEmpty() && vCorreo.validarEmail("Nif")) {
+
+			update += "nuevoCorreo";
+
+		}
+		if (nuevoTelefono != null && !nuevoTelefono.isEmpty() && vTelefono.validarTelefono("Nif")) {
+
+			update += "nuevoTelefono";
+
+		}*/
